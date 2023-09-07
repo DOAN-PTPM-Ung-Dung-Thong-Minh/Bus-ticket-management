@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 test lần 1
 test lần 2
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Tin
 test lần 4
 test lần 5
 >>>>>>> Tin
