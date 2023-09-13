@@ -6,5 +6,5 @@
 - Mô Tả :
     + Đây là dự án 2 nền tảng :gồm App và Web
     + Phạm vi của đồ án  :
-          - Ngôn ngữ lâp trình được sử dụng : C# , SQL ,ASP.NET MVC
-          - Phần mềm được sử dụng : Visual Studio 2013, SQL Server
+        + Ngôn ngữ lâp trình được sử dụng : C# , SQL ,ASP.NET MVC
+        + Phần mềm được sử dụng : Visual Studio 2013, SQL Server
