@@ -36,7 +36,7 @@ namespace DAL
                 newKH.CCCD = kh.CCCD;
                 newKH.TenKH = kh.TenKH;
                 newKH.NgaySinh = kh.NgaySinh;
-                newKH.DiaChi = kh.DiaChi;
+                newKH.SDT = kh.SDT;
                 newKH.Email = kh.Email;
                 newKH.Password_kh = kh.Password_kh;
                 db.KhachHangs.InsertOnSubmit(newKH);
@@ -85,7 +85,7 @@ namespace DAL
             {
                 khachHang.TenKH = kh.TenKH;
                 khachHang.NgaySinh = kh.NgaySinh;
-                khachHang.DiaChi = kh.DiaChi;
+                khachHang.SDT = kh.SDT;
                 khachHang.Password_kh = kh.Password_kh;
                 db.SubmitChanges();
             }
@@ -126,7 +126,7 @@ namespace DAL
                 MAKH = k.CCCD,
                 TENKH = k.TenKH,
                 NGSINH = k.NgaySinh,
-                DIACHI = k.DiaChi,
+                SDT = k.SDT,
                 EMAIL = k.Email,
                 PASSWORD = k.Password_kh
             });
@@ -139,7 +139,7 @@ namespace DAL
                 MAKH = k.CCCD,
                 TENKH = k.TenKH,
                 NGSINH = k.NgaySinh,
-                DIACHI = k.DiaChi,
+                SDT = k.SDT,
                 EMAIL = k.Email,
                 PASSWORD = k.Password_kh
             });
@@ -152,7 +152,7 @@ namespace DAL
                 MAKH = k.CCCD,
                 TENKH = k.TenKH,
                 NGSINH = k.NgaySinh,
-                DIACHI = k.DiaChi,
+                SDT = k.SDT,
                 EMAIL = k.Email,
                 PASSWORD = k.Password_kh
             });

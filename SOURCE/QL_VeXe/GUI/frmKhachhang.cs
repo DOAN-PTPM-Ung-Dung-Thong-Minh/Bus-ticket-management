@@ -42,7 +42,7 @@ namespace WindowsFormsApp1
 
         private void btnCapnhatKH_Click(object sender, EventArgs e)
         {
-            if(txtMAKH.Text=="" || txtTENKH.Text=="" || txtDIACHI.Text=="")
+            if (txtMAKH.Text == "" || txtTENKH.Text == "" || txtSDT.Text == "")
             {
                 MessageBox.Show("Bạn chưa nhập đủ thông tin!");
                 return;
@@ -59,13 +59,19 @@ namespace WindowsFormsApp1
                 txt_passwordkh.Text = "";
                 return;
             }
+            else if (txtSDT.Text.Length <= 10 || txtSDT.Text.Length >= 11)
+            {
+                MessageBox.Show("Sô điện thoại chỉ có 10 hoặc 11 số");
+                txtSDT.Text = "";
+                return;
+            }
             else
             {
                 KhachHang kh = new KhachHang();
                 kh.CCCD = txtMAKH.Text;
                 kh.TenKH = txtTENKH.Text;
                 kh.NgaySinh = dtpNgaysinh.Value.Date;
-                kh.DiaChi = txtDIACHI.Text;
+                kh.SDT = txtSDT.Text;
                 kh.Password_kh = txt_passwordkh.Text;
                 khachHangDAL.capNhatKH(kh);
                 load_DataKH();
@@ -76,7 +82,7 @@ namespace WindowsFormsApp1
         {
             bool existKH = khachHangDAL.ktKH(txtMAKH.Text);
             bool exitstEmail = khachHangDAL.kiemTraTonTaiEmail(txt_email.Text);
-            if (txtTENKH.Text == "" || txtDIACHI.Text == "")
+            if (txtTENKH.Text == "" || txtSDT.Text == "")
             {
                 MessageBox.Show("Bạn chưa nhập đủ thông tin!");
                 return;
@@ -91,14 +97,20 @@ namespace WindowsFormsApp1
                 MessageBox.Show("Độ dài mật khẩu phải lớn hơn 5 và không được lớn hơn 10");
                 txt_passwordkh.Text = "";
                 return;
-            }     
+            }
+            else if (txtSDT.Text.Length <= 10 || txtSDT.Text.Length >= 11)
+            {
+                MessageBox.Show("Sô điện thoại chỉ có 10 hoặc 11 số");
+                txtSDT.Text = "";
+                return;
+            }
             else
             {
                 KhachHang kh = new KhachHang();
                 kh.CCCD = txtMAKH.Text;
                 kh.TenKH = txtTENKH.Text;
                 kh.NgaySinh = dtpNgaysinh.Value.Date;
-                kh.DiaChi = txtDIACHI.Text;
+                kh.SDT = txtSDT.Text;
                 kh.Email = txt_email.Text;
                 kh.Password_kh = txt_passwordkh.Text;
                 khachHangDAL.themKH(kh);
@@ -147,13 +159,13 @@ namespace WindowsFormsApp1
             var data = dgvTTKH.SelectedCells[0].OwningRow.Cells["MAKH"].Value;
             var data1 = dgvTTKH.SelectedCells[0].OwningRow.Cells["TENKH"].Value;
             var data2 = dgvTTKH.SelectedCells[0].OwningRow.Cells["NGSINH"].Value;
-            var data3 = dgvTTKH.SelectedCells[0].OwningRow.Cells["DIACHI"].Value;
+            var data3 = dgvTTKH.SelectedCells[0].OwningRow.Cells["SDT"].Value;
             var data4 = dgvTTKH.SelectedCells[0].OwningRow.Cells["EMAIL"].Value;
             var data5 = dgvTTKH.SelectedCells[0].OwningRow.Cells["PASSWORD"].Value;
             txtMAKH.Text = data.ToString();
             txtTENKH.Text = data1.ToString();
             dtpNgaysinh.Text = data2.ToString();
-            txtDIACHI.Text = data3.ToString();
+            txtSDT.Text = data3.ToString();
             txt_email.Text = data4.ToString();
             txt_passwordkh.Text = data5.ToString();
         }

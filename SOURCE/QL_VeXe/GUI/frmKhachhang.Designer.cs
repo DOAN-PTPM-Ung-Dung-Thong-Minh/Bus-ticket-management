@@ -31,12 +31,16 @@ namespace WindowsFormsApp1
         {
             this.dgvTTKH = new System.Windows.Forms.DataGridView();
             this.grbTTKH = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txt_passwordkh = new System.Windows.Forms.TextBox();
+            this.txt_email = new System.Windows.Forms.TextBox();
             this.btnThemKH = new System.Windows.Forms.Button();
             this.btnTimKH = new System.Windows.Forms.Button();
             this.btnXoaKH = new System.Windows.Forms.Button();
             this.btnCapnhatKH = new System.Windows.Forms.Button();
             this.dtpNgaysinh = new System.Windows.Forms.DateTimePicker();
-            this.txtDIACHI = new System.Windows.Forms.TextBox();
+            this.txtSDT = new System.Windows.Forms.TextBox();
             this.txtTENKH = new System.Windows.Forms.TextBox();
             this.txtMAKH = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -46,14 +50,10 @@ namespace WindowsFormsApp1
             this.label1 = new System.Windows.Forms.Label();
             this.btnDongKH = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.txt_email = new System.Windows.Forms.TextBox();
-            this.txt_passwordkh = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
             this.MAKH = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TENKH = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NGSINH = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DIACHI = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SDT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.email = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.password = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTTKH)).BeginInit();
@@ -69,7 +69,7 @@ namespace WindowsFormsApp1
             this.MAKH,
             this.TENKH,
             this.NGSINH,
-            this.DIACHI,
+            this.SDT,
             this.email,
             this.password});
             this.dgvTTKH.Location = new System.Drawing.Point(5, 32);
@@ -92,7 +92,7 @@ namespace WindowsFormsApp1
             this.grbTTKH.Controls.Add(this.btnXoaKH);
             this.grbTTKH.Controls.Add(this.btnCapnhatKH);
             this.grbTTKH.Controls.Add(this.dtpNgaysinh);
-            this.grbTTKH.Controls.Add(this.txtDIACHI);
+            this.grbTTKH.Controls.Add(this.txtSDT);
             this.grbTTKH.Controls.Add(this.txtTENKH);
             this.grbTTKH.Controls.Add(this.txtMAKH);
             this.grbTTKH.Controls.Add(this.label3);
@@ -109,6 +109,40 @@ namespace WindowsFormsApp1
             this.grbTTKH.TabIndex = 1;
             this.grbTTKH.TabStop = false;
             this.grbTTKH.Text = "Thông tin KH";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(16, 240);
+            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(73, 17);
+            this.label7.TabIndex = 9;
+            this.label7.Text = "Password:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(16, 204);
+            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(46, 17);
+            this.label6.TabIndex = 8;
+            this.label6.Text = "Email:";
+            // 
+            // txt_passwordkh
+            // 
+            this.txt_passwordkh.Location = new System.Drawing.Point(135, 237);
+            this.txt_passwordkh.Name = "txt_passwordkh";
+            this.txt_passwordkh.Size = new System.Drawing.Size(212, 23);
+            this.txt_passwordkh.TabIndex = 7;
+            // 
+            // txt_email
+            // 
+            this.txt_email.Location = new System.Drawing.Point(135, 198);
+            this.txt_email.Name = "txt_email";
+            this.txt_email.Size = new System.Drawing.Size(211, 23);
+            this.txt_email.TabIndex = 6;
             // 
             // btnThemKH
             // 
@@ -164,13 +198,13 @@ namespace WindowsFormsApp1
             this.dtpNgaysinh.Size = new System.Drawing.Size(212, 23);
             this.dtpNgaysinh.TabIndex = 4;
             // 
-            // txtDIACHI
+            // txtSDT
             // 
-            this.txtDIACHI.Location = new System.Drawing.Point(135, 155);
-            this.txtDIACHI.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.txtDIACHI.Name = "txtDIACHI";
-            this.txtDIACHI.Size = new System.Drawing.Size(212, 23);
-            this.txtDIACHI.TabIndex = 3;
+            this.txtSDT.Location = new System.Drawing.Point(135, 155);
+            this.txtSDT.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.txtSDT.Name = "txtSDT";
+            this.txtSDT.Size = new System.Drawing.Size(212, 23);
+            this.txtSDT.TabIndex = 3;
             // 
             // txtTENKH
             // 
@@ -204,9 +238,9 @@ namespace WindowsFormsApp1
             this.label5.Location = new System.Drawing.Point(16, 155);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(55, 17);
+            this.label5.Size = new System.Drawing.Size(95, 17);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Địa chỉ:";
+            this.label5.Text = "Số điện thoại:";
             // 
             // label4
             // 
@@ -264,40 +298,6 @@ namespace WindowsFormsApp1
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Danh sách khách hàng";
             // 
-            // txt_email
-            // 
-            this.txt_email.Location = new System.Drawing.Point(135, 198);
-            this.txt_email.Name = "txt_email";
-            this.txt_email.Size = new System.Drawing.Size(211, 23);
-            this.txt_email.TabIndex = 6;
-            // 
-            // txt_passwordkh
-            // 
-            this.txt_passwordkh.Location = new System.Drawing.Point(135, 237);
-            this.txt_passwordkh.Name = "txt_passwordkh";
-            this.txt_passwordkh.Size = new System.Drawing.Size(212, 23);
-            this.txt_passwordkh.TabIndex = 7;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(16, 204);
-            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(46, 17);
-            this.label6.TabIndex = 8;
-            this.label6.Text = "Email:";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(16, 240);
-            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(73, 17);
-            this.label7.TabIndex = 9;
-            this.label7.Text = "Password:";
-            // 
             // MAKH
             // 
             this.MAKH.DataPropertyName = "MAKH";
@@ -319,12 +319,11 @@ namespace WindowsFormsApp1
             this.NGSINH.MinimumWidth = 6;
             this.NGSINH.Name = "NGSINH";
             // 
-            // DIACHI
+            // SDT
             // 
-            this.DIACHI.DataPropertyName = "DIACHI";
-            this.DIACHI.HeaderText = "Địa Chỉ";
-            this.DIACHI.MinimumWidth = 6;
-            this.DIACHI.Name = "DIACHI";
+            this.SDT.DataPropertyName = "SDT";
+            this.SDT.HeaderText = "Số Điện Thoại";
+            this.SDT.Name = "SDT";
             // 
             // email
             // 
@@ -371,7 +370,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button btnXoaKH;
         private System.Windows.Forms.Button btnCapnhatKH;
         private System.Windows.Forms.DateTimePicker dtpNgaysinh;
-        private System.Windows.Forms.TextBox txtDIACHI;
+        private System.Windows.Forms.TextBox txtSDT;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
@@ -385,7 +384,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.DataGridViewTextBoxColumn MAKH;
         private System.Windows.Forms.DataGridViewTextBoxColumn TENKH;
         private System.Windows.Forms.DataGridViewTextBoxColumn NGSINH;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DIACHI;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SDT;
         private System.Windows.Forms.DataGridViewTextBoxColumn email;
         private System.Windows.Forms.DataGridViewTextBoxColumn password;
     }
