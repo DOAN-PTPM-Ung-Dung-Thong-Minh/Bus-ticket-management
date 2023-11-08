@@ -17,7 +17,7 @@ Create table KhachHang
 	CCCD char(12) primary key,
 	TenKH nvarchar(50),
 	NgaySinh date,
-	DiaChi nvarchar(50),
+	SDT char(11),
 	Email char(50),
 	Password_kh char(50)
 )
@@ -90,17 +90,17 @@ go
 
 
 Insert into KhachHang
-values('012345678921',N'Nguyễn Văn A','23/03/1989',N'140 Lê Trọng Tấn','haha@gmail.com','123456'),
-		('032145678912',N'Nguyễn Văn B','13/07/1991',N'335 Nguyễn Du','hihi@gmail.com','123456'),
-		('021345678921',N'Nguyễn Văn C','03/05/1987',N'115/25 Quang Trung','huhu@gmail.com','123456'),
-		('031245678921',N'Nguyễn Văn D','30/06/1992',N'63 Nguyễn Thái Học','hehe@gmail.com','123456'),
-		('045612378912',N'Nguyễn Văn E','12/08/1994',N' 417 Bà Hom','kaka@gmail.com','123456'),
-		('012345678901',N'Nguyễn Văn F','11/08/1992',N' 366 Lê Lai','leuleu@gmail.com','123456'),
-		('012345678902',N'Nguyễn Văn G','14/04/1997',N' 213 Đường số 3','henie@gmail.com','123456'),
-		('012345678903',N'Nguyễn Văn H','27/07/1995',N' 899 Phù Đổng Thiên Vương','bubuchacha@gmail.com','123456'),
-		('012345678904',N'Nguyễn Văn I','22/05/1981',N' 312 Tô Hiệu','bento@gmail.com','123456'),
-		('012345678905',N'Nguyễn Văn L','18/08/1990',N' 13 Phạm Thế Hiển','hahuhi@gmail.com','123456'),
-		('012345678906',N'Nguyễn Văn K','09/01/1995',N' 453 Tân Phú','lelme@gmail.com','123456')
+values('012345678921',N'Nguyễn Văn A','23/03/1989','09876543212','haha@gmail.com','123456'),
+		('032145678912',N'Nguyễn Văn B','13/07/1991','09876543233','hihi@gmail.com','123456'),
+		('021345678921',N'Nguyễn Văn C','03/05/1987','09876543244','huhu@gmail.com','123456'),
+		('031245678921',N'Nguyễn Văn D','30/06/1992','09876543255','hehe@gmail.com','123456'),
+		('045612378912',N'Nguyễn Văn E','12/08/1994','09876543266','kaka@gmail.com','123456'),
+		('012345678901',N'Nguyễn Văn F','11/08/1992','09876543277','leuleu@gmail.com','123456'),
+		('012345678902',N'Nguyễn Văn G','14/04/1997','09876543288','henie@gmail.com','123456'),
+		('012345678903',N'Nguyễn Văn H','27/07/1995','09876543299','bubuchacha@gmail.com','123456'),
+		('012345678904',N'Nguyễn Văn I','22/05/1981','09876543242','bento@gmail.com','123456'),
+		('012345678905',N'Nguyễn Văn L','18/08/1990','09876543278','hahuhi@gmail.com','123456'),
+		('012345678906',N'Nguyễn Văn K','09/01/1995','09876543288','lelme@gmail.com','123456')
 go
 
 Insert into ChucVu
