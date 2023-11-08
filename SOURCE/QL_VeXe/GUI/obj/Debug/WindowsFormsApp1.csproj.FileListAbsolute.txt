@@ -1,0 +1,73 @@
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\tuann\Desktop\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\.net\banvexe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

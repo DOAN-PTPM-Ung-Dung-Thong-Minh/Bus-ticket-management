@@ -1,0 +1,312 @@
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\DAL.dll
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\DAL.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.DocIO.Base.xml
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\Syncfusion.XlsIO.Base.xml
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Data.v22.2.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Utils.v22.2.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\bin\Debug\DAL.dll
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\bin\Debug\DAL.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmChuyenxe.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmDatve.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmKhachhang.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmNhanvien.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmTuyenxe.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmVexe.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.frmXe.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

@@ -1,0 +1,81 @@
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\bin\Debug\DAL.dll
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\obj\Debug\DAL.dll
+C:\Users\t480s\Documents\Zalo Received Files\banvexe (1) - Copy - Copy\WindowsFormsApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\bin\Debug\DAL.dll
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\bin\Debug\DAL.pdb
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\obj\Debug\DAL.dll
+C:\Users\t480s\Documents\Zalo Received Files\banvexe\QL_VeXe\DAL\obj\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\obj\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\banvexe\QL_VeXe\DAL\obj\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Desktop\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\QL_VeXe\DAL\obj\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\obj\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXe2\QL_VeXe\DAL\obj\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.dll
+F:\DuLieuSinhVien\.NET\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.pdb
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll
+C:\Users\t480s\OneDrive\Documents\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.dll
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\bin\Debug\DAL.pdb
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.dll
+F:\DuLieuSinhVien\CNPMNC\QL_VeXeNew (1)\QL_VeXeNew (1)\QL_VeXeNew\QL_VeXe\DAL\obj\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\bin\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\bin\Debug\DAL.pdb
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\obj\Debug\DAL.dll
+D:\Nam 4\CNPM NANGCAO\Do_AN_QuanLyXeKhach\App\QL_VeXe\DAL\obj\Debug\DAL.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\DAL\bin\Debug\DAL.dll.config
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\DAL\bin\Debug\DAL.dll
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\DAL\bin\Debug\DAL.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\DAL\obj\Debug\DAL.dll
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\SOURCE\QL_VeXe\DAL\obj\Debug\DAL.pdb
