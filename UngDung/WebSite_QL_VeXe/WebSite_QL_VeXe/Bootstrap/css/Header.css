@@ -1,0 +1,57 @@
+﻿#Header{
+        border:1px solid grey;
+}
+
+#logo{
+    margin-top:5px;
+    width:270px;
+    height:130px;
+}
+
+
+#text-Header{
+    color:black;
+    margin-left:25px;
+    font-size:17px;
+    margin-top:20px;
+}
+
+#button-dk{
+    margin-top:25px;
+    margin-left:70px;
+    background-color: #4CAF50; /* Màu nền */
+    color: white; /* Màu chữ */
+    padding: 10px 40px; /* Kích thước nút */
+    text-align: center; /* Căn lề chữ */
+    text-decoration: none; /* Bỏ gạch chân link nếu dùng cho nút */
+    display: inline-block;
+    border-radius: 5px; /* Bo tròn viền */
+    border: none; /* Bỏ viền */
+    transition: background-color 0.3s ease; /* Hiệu ứng khi di chuột qua nút */
+    cursor: pointer; /* Đổi con trỏ thành hình bàn tay khi di chuột qua nút */
+    font-size:17px;
+}
+#button-dk:hover{
+    background-color: #45a049;
+}
+
+
+#button-dn{
+    margin-top:25px;
+    margin-left:140px;
+    background-color: #4CAF50; /* Màu nền */
+    color: white; /* Màu chữ */
+    padding: 10px 30px; /* Kích thước nút */
+    text-align: center; /* Căn lề chữ */
+    text-decoration: none; /* Bỏ gạch chân link nếu dùng cho nút */
+    display: inline-block;
+    border-radius: 5px; /* Bo tròn viền */
+    border: none; /* Bỏ viền */
+    transition: background-color 0.3s ease; /* Hiệu ứng khi di chuột qua nút */
+    cursor: pointer; /* Đổi con trỏ thành hình bàn tay khi di chuột qua nút */
+    font-size:17px;
+}
+
+#button-dn:hover{
+    background-color: #45a049;
+}

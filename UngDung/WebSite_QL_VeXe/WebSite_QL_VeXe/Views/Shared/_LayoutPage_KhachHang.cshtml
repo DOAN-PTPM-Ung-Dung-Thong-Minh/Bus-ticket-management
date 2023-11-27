@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewBag.Title = "_LayoutPage_Khachhang";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title-Trang Khách Hàng</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link href="~/Bootstrap/css/bootstrap-reboot.min.css" rel="stylesheet" />
+    <link href="~/Bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Bootstrap/css/Header.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-fixed-top" id="Header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-3">
+                    <a href="~/Image/Logo.jpg"><img class=" card-img-top " id="logo" src="~/Image/Logo.jpg" /></a>
+                </div>
+                <div class="col-7  ">
+                    <nav class="navbar navbar-expand-sm navbar-dark  p-3">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" id="text-Header" href="/KhachHang/TrangChu"><b>Trang Chủ</b></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="text-Header" href="/KhachHang/GioiThieu"><b>Giới Thiệu</b></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="text-Header" href="/KhachHang/LienHe"><b>Liên Hệ</b></a>
+                            </li>
+
+                        </ul>
+                    </nav>
+                </div>
+                @*<div class="col-1">
+                    <a href="#"><button type="button" class="btn btn-info" id="button-dk"><b>Đăng Ký</b></button></a>
+                </div>
+                <div class="col-1">
+                    <a href="#"><button type="button" class="btn btn-info" id="button-dn"><b>Đăng Nhập</b></button></a>
+                </div>*@
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row p-0 ">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" style="margin-top:40px;">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="/Image/img_slideshow1.jpg" class="d-block w-100" alt="First slide" style="width:100%;height:400px;">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/Image/img_slideshow2.jpg" class="d-block w-100" alt="Second slide" style="width:100%;height:400px;">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/Image/img_slideshow3.jpg" class="d-block w-100" alt="Third slide" style=" width:100%;height:400px;">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/Image/img_slideshow4.jpg" class="d-block w-100" alt="Four slide" style=" width:100%;height:400px;">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+        <div class="row ">
+            <marquee width="100%" behavior="scroll" style="height: 100px; margin-top: 5px;" bgcolor="orange">
+                <h1 style="line-height: 100px; color: #ffffff;">Nhà xe chất lượng cao, đặt vé dễ dàng, nhiều ưu đãi</h1>
+            </marquee>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>
+                Địa chỉ đăng ký kinh doanh: 8C Chữ Đồng Tử, Phường 7, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam
+                Địa chỉ: Lầu 2, tòa nhà H3 Circo Hoàng Diệu, 384 Hoàng Diệu, Phường 6, Quận 4, Tp. Hồ Chí Minh, Việt Nam
+                Tầng 3, toà nhà 101 Láng Hạ, Đường 101 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội, Việt Nam
+                Giấy chứng nhận ĐKKD số 0315133726 do Sở KH và ĐT TP. Hồ Chí Minh cấp lần đầu ngày 27/6/2018
+            </p>
+            <p style="text-align:center">&copy; @DateTime.Now.Year - Website Đồ Án Quản Lý Vé Xe</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
