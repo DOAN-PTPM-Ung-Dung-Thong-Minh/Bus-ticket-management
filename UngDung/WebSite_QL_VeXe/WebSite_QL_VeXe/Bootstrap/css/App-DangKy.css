@@ -1,11 +1,7 @@
-﻿body {
-    background-image:url(/Hinh//Background.jpg); 
-    background-size:cover;
-    font-size:16px;
-}
+﻿
 
 #Wrapper{
-    min-height:150vh;
+    min-height:100vh;
     display:flex;
     justify-content:center;
     align-content:center;

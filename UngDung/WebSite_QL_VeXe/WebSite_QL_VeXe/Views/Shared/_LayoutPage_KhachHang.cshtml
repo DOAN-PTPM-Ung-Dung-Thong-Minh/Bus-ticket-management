@@ -16,13 +16,14 @@
     <link href="~/Bootstrap/css/Header.css" rel="stylesheet" />
 </head>
 <body>
+    @using WebSite_QL_VeXe.Models;
     <div class="navbar navbar-fixed-top" id="Header">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-3">
                     <a href="~/Image/Logo.jpg"><img class=" card-img-top " id="logo" src="~/Image/Logo.jpg" /></a>
                 </div>
-                <div class="col-7  ">
+                <div class="col-6">
                     <nav class="navbar navbar-expand-sm navbar-dark  p-3">
                         <ul class="navbar-nav">
                             <li class="nav-item">
@@ -34,16 +35,29 @@
                             <li class="nav-item">
                                 <a class="nav-link" id="text-Header" href="/KhachHang/LienHe"><b>Liên Hệ</b></a>
                             </li>
-
                         </ul>
                     </nav>
                 </div>
-                @*<div class="col-1">
-                    <a href="#"><button type="button" class="btn btn-info" id="button-dk"><b>Đăng Ký</b></button></a>
+                <div class="col-3 p-md-4">
+                    <table>
+                        <tr>
+                            <td>
+                                @{
+                                    if (Session["tenKH"] != null)
+                                    {
+                                        <form action="/KhachHang/TrangChu" method="post" style="margin-left:75px">
+                                            <input type="text" name="ma" value="@Session["cccd"]" style="display:none">
+                                            <input class="nav-link btn btn-info" style="font-weight: bold; padding: 10px 10px 10px 10px; margin-left: 60px; " type="submit" name="view" value="Chào bạn, @Session["tenKH"]">
+                                        </form>
+                                    }
+                                }
+                            </td>
+                            <td>
+                                <a class="nav-link btn btn-info" style="font-weight:bold;margin-left:60px;width:150px;padding:10px 10px 10px 10px;" href="/Home/TrangChu"><b>Đăng xuất</b></a>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
-                <div class="col-1">
-                    <a href="#"><button type="button" class="btn btn-info" id="button-dn"><b>Đăng Nhập</b></button></a>
-                </div>*@
             </div>
         </div>
     </div>

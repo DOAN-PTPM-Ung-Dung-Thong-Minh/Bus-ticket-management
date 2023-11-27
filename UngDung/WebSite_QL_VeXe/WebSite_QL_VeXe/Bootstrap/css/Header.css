@@ -19,7 +19,6 @@
 #button-dk{
     margin-top:25px;
     margin-left:70px;
-    background-color: #4CAF50; /* Màu nền */
     color: white; /* Màu chữ */
     padding: 10px 40px; /* Kích thước nút */
     text-align: center; /* Căn lề chữ */
@@ -39,7 +38,6 @@
 #button-dn{
     margin-top:25px;
     margin-left:140px;
-    background-color: #4CAF50; /* Màu nền */
     color: white; /* Màu chữ */
     padding: 10px 30px; /* Kích thước nút */
     text-align: center; /* Căn lề chữ */
