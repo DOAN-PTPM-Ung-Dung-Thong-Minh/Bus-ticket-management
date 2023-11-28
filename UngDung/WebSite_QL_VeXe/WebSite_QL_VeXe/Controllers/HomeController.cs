@@ -15,7 +15,8 @@ namespace WebSite_QL_VeXe.Controllers
         // GET: TrangChu
         public ActionResult TrangChu()
         {
-            return View();
+            List<TuyenXe> a = db.TuyenXes.ToList();
+            return View(a);
         }
 
 

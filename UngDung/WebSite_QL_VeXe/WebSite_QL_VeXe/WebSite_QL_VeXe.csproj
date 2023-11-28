@@ -107,6 +107,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Image\Background.jpg" />
+    <Content Include="Image\benxe.jpg" />
+    <Content Include="Image\details.jpg" />
     <Content Include="Image\img_slideshow1.jpg" />
     <Content Include="Image\img_slideshow2.jpg" />
     <Content Include="Image\img_slideshow3.jpg" />
