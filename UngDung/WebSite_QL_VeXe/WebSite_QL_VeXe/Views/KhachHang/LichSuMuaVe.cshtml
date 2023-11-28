@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "LichSuMuaVe";
+    Layout = "~/Views/Shared/_LayoutPage_KhachHang.cshtml";
+}
+@using WebSite_QL_VeXe.Models;
+@model List<VeXe>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lịch sử mua vé</title>
+</head>
+<body>
+    <center><h2>Lịch Sử Mua Vé</h2></center>
+    <div class="row justify-content-center">
+        <br>
+        <table class="table table-hover table-bordered " style="border: 5px solid; border-color:black">
+            <thead style="background-color: black; color: white; text-align: center; font-weight: bold;">
+                <tr>
+                    <th>
+                        Mã Chuyến
+                    </th>
+                    <th>
+                        Ngày Đi
+                    </th>
+                    <th>
+                        Vị Trí Ghế
+                    </th>
+                    <th>
+                        Tên Khách Hàng
+                    </th>
+                    <th>
+                        Số Điện Thoại
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody style="color: black;">
+                @foreach (var item in Model)
+                {
+                    <tr style="text-align:center; font-weight: bold;">
+                        <td style="background-color: lightgray;">
+                            @Html.DisplayFor(modelItem => item.MaChuyen)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NgayDi)
+                        </td>
+                        <td style="background-color: lightgray;">
+                            @Html.DisplayFor(modelItem => item.ViTri)
+                        </td>
+                        <td >
+                            @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
+                        </td>
+                        <td style="background-color: lightgray;">
+                            @Html.DisplayFor(modelItem => item.KhachHang.SDT)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

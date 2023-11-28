@@ -158,3 +158,6 @@ values('012345678921','SGVT17H','19/12/2022','A1'),
 		('012345678903','SGVT17H','20/12/2022','A5')
 go
 
+
+--Select MaChuyen,NgayDi,ViTri, TenKH,SDT from VeXe vx,KhachHang kh
+--Where vx.CCCD = kh.CCCD  and vx.CCCD = '012345678902'
