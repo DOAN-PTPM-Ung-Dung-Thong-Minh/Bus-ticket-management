@@ -91,6 +91,7 @@
     <Content Include="Bootstrap\css\bootstrap.min.css" />
     <Content Include="Bootstrap\css\button_hieuung.css" />
     <Content Include="Bootstrap\css\Header.css" />
+    <Content Include="Bootstrap\css\nopcv_hieuung.css" />
     <Content Include="Bootstrap\css\StyleDangky.css" />
     <Content Include="Bootstrap\css\Style_QL.css" />
     <Content Include="Bootstrap\js\App-DK-JS.js" />
@@ -172,6 +173,9 @@
     <Content Include="Views\KhachHang\Sua_ThongTinCaNhan.cshtml" />
     <Content Include="Views\KhachHang\Doi_MatKhau.cshtml" />
     <Content Include="Views\KhachHang\LichSuMuaVe.cshtml" />
+    <Content Include="Views\KhachHang\XemChiTiet.cshtml" />
+    <Content Include="Views\Home\XemChiTiet.cshtml" />
+    <Content Include="Views\KhachHang\DatVe.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

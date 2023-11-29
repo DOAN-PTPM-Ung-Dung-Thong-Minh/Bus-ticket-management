@@ -15,10 +15,16 @@ namespace WebSite_QL_VeXe.Controllers
         // GET: TrangChu
         public ActionResult TrangChu()
         {
-            List<TuyenXe> a = db.TuyenXes.ToList();
+            List<ChuyenXe> a = db.ChuyenXes.ToList();
             return View(a);
         }
 
+        //Xem Chi Tiet Ve
+        public ActionResult XemChiTiet(string id)
+        {
+            ChuyenXe s = db.ChuyenXes.FirstOrDefault(i => i.MaChuyen == id);
+            return View(s);
+        }
 
         public ActionResult GioiThieu()
         {

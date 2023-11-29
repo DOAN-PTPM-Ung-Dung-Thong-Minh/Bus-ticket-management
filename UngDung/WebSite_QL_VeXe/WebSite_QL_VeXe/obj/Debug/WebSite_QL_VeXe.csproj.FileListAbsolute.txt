@@ -13,6 +13,5 @@ D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.Razor.xml
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Helpers.xml
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Mvc.xml
-D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.csprojResolveAssemblyReference.cache
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.dll
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.pdb

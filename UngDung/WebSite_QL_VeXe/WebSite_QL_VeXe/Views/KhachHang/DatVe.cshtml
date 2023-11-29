@@ -1,0 +1,84 @@
+﻿@using WebSite_QL_VeXe.Models;
+@model List<VeXe>
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<html ur;>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đặt Vé</title>
+</head>
+<body style="background-image:url(/Image//Background.jpg); background-size:cover;font-size:16px;">
+    <div class="container" style="margin-left:25%;padding-bottom:50px">
+        <div class="row" style="margin-top:3%;">
+            <form action="/KhachHang/DatVe" method="post" style="max-width:650px;background: rgba(0,0,0,0.8);opacity:0.8;flex-grow:1;padding: 10px 15px 30px 45px;box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8)  ;">
+                <table style="color:white;margin-left:40px; font-family:Oswald;font-weight:bold">
+                    <tr>
+                        <td><h2 style="text-align:center"><b>Đặt Vé </b></h2></td>
+                    </tr>
+                    <tr>
+                        <td>Căn Cước Công Dân:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập cccd" name="cccd" value="@Session["cccd"]"  style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Mã Chuyến:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập mã chuyen" name="machuyen" value="@Session["machuyen"]" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Vị Trí Ghế:</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select class="form-control" id="gender" name="vitri">
+                                <option value="A1">Ghế A1</option>
+                                <option value="A2">Ghế A2</option>
+                                <option value="A3">Ghế A3</option>
+                                <option value="A4">Ghế A4</option>
+                                <option value="A5">Ghế A5</option>
+                                <option value="A6">Ghế A6</option>
+                                <option value="A7">Ghế A7</option>
+                                <option value="A8">Ghế A8</option>
+                                <option value="A9">Ghế A9</option>
+
+                                <option value="B1">Ghế B1</option>
+                                <option value="B2">Ghế B2</option>
+                                <option value="B3">Ghế B3</option>
+                                <option value="B4">Ghế B4</option>
+                                <option value="B5">Ghế B5</option>
+                                <option value="B6">Ghế B6</option>
+                                <option value="B7">Ghế B7</option>
+                                <option value="B8">Ghế B8</option>
+                                <option value="B9">Ghế B9</option>
+
+                                <option value="C1">Ghế C1</option>
+                                <option value="C2">Ghế C2</option>
+                                <option value="C3">Ghế C3</option>
+                                <option value="C4">Ghế C4</option>
+                                <option value="C5">Ghế C5</option>
+                                <option value="C6">Ghế C6</option>
+                                <option value="C7">Ghế C7</option>
+                                <option value="C8">Ghế C8</option>
+                                <option value="C9">Ghế C9</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Ngày đi:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="date" id="start" name="ngaydi" /></td>
+                    </tr>
+                </table>
+                <div style="margin-top:15px;margin-left:40px">
+                    <button type="submit" class="button-them " style="text-align:center;width:430px;"><b>Đặt Vé</b></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

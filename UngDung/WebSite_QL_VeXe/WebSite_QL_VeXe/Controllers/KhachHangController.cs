@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -13,7 +14,7 @@ namespace WebSite_QL_VeXe.Controllers
         // GET: KhachHang
         public ActionResult TrangChu()
         {
-            List<TuyenXe> a = db.TuyenXes.ToList();
+            List<ChuyenXe> a = db.ChuyenXes.ToList();
             return View(a);
         }
 
@@ -145,7 +146,43 @@ namespace WebSite_QL_VeXe.Controllers
         }
 
         //Xem Chi Tiet Ve
+        public ActionResult XemChiTiet(string id)
+        {
+            ChuyenXe s = db.ChuyenXes.FirstOrDefault(i => i.MaChuyen == id);
+            Session["machuyen"] = s.MaChuyen;
+            return View(s);
+        }
+        
+        //Dat Ve 
+        public ActionResult DatVe()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult DatVe(FormCollection col)
+        {
+            string dateString = col["NgayDi"];
+            DateTime date;
 
+            if (DateTime.TryParseExact(dateString, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out date))
+            {
+
+                VeXe vx = new VeXe();
+                vx.CCCD = col["cccd"];
+                vx.MaChuyen = col["machuyen"];
+                vx.NgayDi = date;
+                vx.ViTri = col["vitri"];
+
+                db.VeXes.InsertOnSubmit(vx);
+                db.SubmitChanges();
+                return View();
+            }
+            else
+            {
+                ModelState.AddModelError("Error", "Ngày đặt vé không hợp lệ");
+                return View();
+            }
+        }
 
 
 

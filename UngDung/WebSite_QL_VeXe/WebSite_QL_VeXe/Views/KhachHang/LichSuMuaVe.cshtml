@@ -4,8 +4,8 @@
 }
 @using WebSite_QL_VeXe.Models;
 @model List<VeXe>
-<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
-<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/Bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/Bootstrap/css/Style_QL.css" rel="stylesheet" />
 <!DOCTYPE html>
 <html>
 <head>
@@ -59,7 +59,11 @@
                             @Html.DisplayFor(modelItem => item.ChuyenXe.TTXe)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.NgayDi)
+                            @{
+                                DateTime ngayDi = Convert.ToDateTime(item.NgayDi);
+                                var formattedDate = ngayDi.ToString("dd/MM/yyyy");
+                            }
+                            @formattedDate
                         </td>
                         <td style="background-color: lightgray;">
                             @Html.DisplayFor(modelItem => item.ViTri)

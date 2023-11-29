@@ -1,34 +1,35 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "TrangChu";
     Layout = "~/Views/Shared/_LayoutPage_KhachHang.cshtml";
 }
 @using WebSite_QL_VeXe.Models;
-@model List<TuyenXe>
-           <br/>
-<div class="container-fluid">
-    <div class="row">
-        <a class="nav-link btn btn-info" style="width:300px;margin-left:800px" href="/KhachHang/LichSuMuaVe/@Session["cccd"]"><b>Lịch Sử Mua Vé</b></a>
-    </div>
-    <div class="row  text-center">
+@model List<ChuyenXe>
+<title>Trang Chủ</title>
+<div class="container">
+    <div class="row text-center">
         <span>
             <font face="Verdana"><h2 style="text-align:center"><b>DANH MỤC CÁC CHUYẾN XE</b></h2></font>
         </span>
+    </div>
+    <div class="row">
+        <a href="/KhachHang/LichSuMuaVe/@Session["cccd"]"><button type="button" class="btn btn-info" style="height:70px;width:400px; margin-left:685px;color:black; "><b>Lịch Sử Mua Vé</b></button></a><br /><br />
     </div>
     <div class="row ">
         <div class="row product-group p-3 bg-light">
             @foreach (var s in Model)
             {
                 <div class="col-4 p-3">
-                    <a href="/Home/XemChiTietBaiDang/@s.MaTuyen" style="text-decoration: none;">
+                    <a href="/KhachHang/XemChiTiet/@s.MaChuyen" style="text-decoration: none;">
                         <div class="card text-center  ">
                             <div style="box-shadow:5px 5px 5px 2px #999999;">
                                 <img class="hover-row card-img-top" src="~/Image/benxe.jpg" height="200" />
                                 <div class="card-body">
-                                    <h5 class="card-title text-center"><b>@s.TenTuyen</b></h5>
-                                    <h6 class="card-subtitle mb-1 text-danger text-center"><b>Giá vé: @s.GiaVe.000đ</b></h6>
+                                    <h5 class="card-title text-center"><b>@s.TenChuyen</b></h5>
+                                    <h6 class="card-subtitle mb-1 text-danger text-center"><b>Giá vé: @s.TuyenXe.GiaVe.000đ</b></h6>
                                     <div class="card-text">
-                                        <a href="/Home/XemChiTietBaiDang/@s.MaTuyen"><button class="btn btn-danger w-100 mt-3"><img src="~/Image/details.png" width="30px" /><b>XEM CHI TIẾT</b></button></a>
+                                        <a href="/KhachHang/XemChiTiet/@s.MaChuyen" class="btn btn-danger w-100 mt-3">
+                                            <img src="~/Image/details.jpg" width="30" /><b>XEM CHI TIẾT</b>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
