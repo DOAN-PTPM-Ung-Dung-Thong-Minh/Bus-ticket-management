@@ -94,6 +94,7 @@
     <Content Include="Bootstrap\css\nopcv_hieuung.css" />
     <Content Include="Bootstrap\css\StyleDangky.css" />
     <Content Include="Bootstrap\css\Style_QL.css" />
+    <Content Include="Bootstrap\css\TimKiem_Search.css" />
     <Content Include="Bootstrap\js\App-DK-JS.js" />
     <Content Include="Bootstrap\js\App-DN-JS.js" />
     <Content Include="Bootstrap\js\bootstrap.bundle.js" />

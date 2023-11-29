@@ -129,6 +129,23 @@ namespace WebSite_QL_VeXe.Controllers
             }
             return View();
         }
+        // Tìm kiếm
+        public ActionResult TimKiem()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult XL_TimKiem(FormCollection fc)
+        {
+            string diadiem = fc["diadiem"].ToLower();
+            List<ChuyenXe> cx = db.ChuyenXes.ToList();
+            if (!string.IsNullOrEmpty(diadiem))
+            {
+                cx = cx.Where(l => l.TenChuyen.ToLower().Contains(diadiem)).ToList();
+            }
+            return View("TrangChu", cx);
+
+        }
 
     }
 }

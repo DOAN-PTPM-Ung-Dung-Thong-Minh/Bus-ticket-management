@@ -4,6 +4,13 @@
 }
 @using WebSite_QL_VeXe.Models;
 @model List<ChuyenXe>
+
+
+<link href="~/bootstrap/css/TimKiem_Search.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+
 <title>Trang Chủ</title>
 <div class="container">
     <div class="row text-center">
@@ -11,6 +18,18 @@
             <font face="Verdana"><h2 style="text-align:center"><b>DANH MỤC CÁC CHUYẾN XE</b></h2></font>
         </span>
     </div>
+    <form class="example" action="/KhachHang/XL_TimKiem" style="margin:auto" method="post">
+        <div class="row">
+            <div class="col-9">
+                <input type="text" placeholder="Nhập từ khoá địa điểm" name="diadiem">
+            </div>
+            <div class="col-3">
+                <div class="search-content-item">
+                    <button type="submit">Tìm kiếm</button>
+                </div>
+            </div>
+        </div>
+    </form>
     <div class="row">
         <a href="/KhachHang/LichSuMuaVe/@Session["cccd"]"><button type="button" class="btn btn-info" style="height:70px;width:400px; margin-left:685px;color:black; "><b>Lịch Sử Mua Vé</b></button></a><br /><br />
     </div>

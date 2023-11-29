@@ -54,7 +54,7 @@ namespace WebSite_QL_VeXe.Models
     #endregion
 		
 		public DB_BanvexekhachDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["DB_BanvexekhachConnectionString"].ConnectionString, mappingSource)
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["DB_BanvexekhachConnectionString1"].ConnectionString, mappingSource)
 		{
 			OnCreated();
 		}

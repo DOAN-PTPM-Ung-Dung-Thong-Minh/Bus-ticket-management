@@ -4,6 +4,13 @@
 }
 @using WebSite_QL_VeXe.Models;
 @model List<ChuyenXe>
+
+
+<link href="~/bootstrap/css/TimKiem_Search.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+
 <title>Trang Chủ</title>
 <div class="container">
     <div class="row text-center">
@@ -11,6 +18,18 @@
             <font face="Verdana"><h2 style="text-align:center"><b>DANH MỤC CÁC CHUYẾN XE</b></h2></font>
         </span>
     </div>
+    <form class="example" action="/Home/XL_TimKiem" style="margin:auto" method="post">
+        <div class="row">
+            <div class="col-9">
+                <input type="text" placeholder="Nhập từ khoá địa điểm" name="diadiem">
+            </div>
+            <div class="col-3">
+                <div class="search-content-item">
+                    <button type="submit">Tìm kiếm</button>
+                </div>
+            </div>
+        </div>
+    </form>
     <div class="row ">
         <div class="row product-group p-3 bg-light">
             @foreach (var s in Model)

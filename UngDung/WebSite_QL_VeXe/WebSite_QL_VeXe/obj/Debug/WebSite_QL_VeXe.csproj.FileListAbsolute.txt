@@ -15,3 +15,21 @@ D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Mvc.xml
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.dll
 D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\WebSite_QL_VeXe.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\WebSite_QL_VeXe.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\WebSite_QL_VeXe.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.pdb
