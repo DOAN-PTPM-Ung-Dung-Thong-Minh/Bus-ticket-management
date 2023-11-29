@@ -167,7 +167,7 @@ namespace WindowsFormsApp1
             dtpNgaysinh.Text = data2.ToString();
             txtSDT.Text = data3.ToString();
             txt_email.Text = data4.ToString();
-            txt_passwordkh.Text = data5.ToString();
+            txt_passwordkh.Text = data5.ToString(); 
         }
 
         private void txtMAKH_KeyPress(object sender, KeyPressEventArgs e)
