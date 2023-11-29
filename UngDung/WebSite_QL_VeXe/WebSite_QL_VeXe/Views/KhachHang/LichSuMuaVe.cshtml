@@ -19,7 +19,16 @@
             <thead style="background-color: black; color: white; text-align: center; font-weight: bold;">
                 <tr>
                     <th>
+                        Tên Khách Hàng
+                    </th>
+                    @*<th>
                         Mã Chuyến
+                    </th>*@
+                    <th>
+                        Tên Chuyến
+                    </th>
+                    <th>
+                        Biến Số Xe
                     </th>
                     <th>
                         Ngày Đi
@@ -28,10 +37,7 @@
                         Vị Trí Ghế
                     </th>
                     <th>
-                        Tên Khách Hàng
-                    </th>
-                    <th>
-                        Số Điện Thoại
+                        Giá Vé
                     </th>
                 </tr>
             </thead>
@@ -41,7 +47,16 @@
                 {
                     <tr style="text-align:center; font-weight: bold;">
                         <td style="background-color: lightgray;">
+                            @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
+                        </td>
+                        @*<td>
                             @Html.DisplayFor(modelItem => item.MaChuyen)
+                        </td>*@
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ChuyenXe.TenChuyen)
+                        </td>
+                        <td style="background-color: lightgray;">
+                            @Html.DisplayFor(modelItem => item.ChuyenXe.TTXe)
                         </td>
                         <td>
                             @Html.DisplayFor(modelItem => item.NgayDi)
@@ -49,11 +64,9 @@
                         <td style="background-color: lightgray;">
                             @Html.DisplayFor(modelItem => item.ViTri)
                         </td>
-                        <td >
-                            @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
-                        </td>
-                        <td style="background-color: lightgray;">
-                            @Html.DisplayFor(modelItem => item.KhachHang.SDT)
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TuyenXe.GiaVe)
                         </td>
                     </tr>
                 }

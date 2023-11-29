@@ -7,6 +7,14 @@
       <Association Name="ChucVu_Nhanvien" Member="Nhanviens" ThisKey="MaCV" OtherKey="MaCV" Type="Nhanvien" />
     </Type>
   </Table>
+  <Table Name="dbo.Xe" Member="Xes">
+    <Type Name="Xe">
+      <Column Name="TTXe" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNV" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Association Name="Xe_ChuyenXe" Member="ChuyenXes" ThisKey="TTXe" OtherKey="TTXe" Type="ChuyenXe" />
+      <Association Name="Nhanvien_Xe" Member="Nhanvien" ThisKey="MaNV" OtherKey="MaNV" Type="Nhanvien" IsForeignKey="true" />
+    </Type>
+  </Table>
   <Table Name="dbo.ChuyenXe" Member="ChuyenXes">
     <Type Name="ChuyenXe">
       <Column Name="MaChuyen" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -15,8 +23,8 @@
       <Column Name="TTXe" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
       <Column Name="GioXuatPhat" Type="System.String" DbType="Char(5)" CanBeNull="true" />
       <Association Name="ChuyenXe_VeXe" Member="VeXes" ThisKey="MaChuyen" OtherKey="MaChuyen" Type="VeXe" />
-      <Association Name="TuyenXe_ChuyenXe" Member="TuyenXe" ThisKey="MaTuyen" OtherKey="MaTuyen" Type="TuyenXe" IsForeignKey="true" />
       <Association Name="Xe_ChuyenXe" Member="Xe" ThisKey="TTXe" OtherKey="TTXe" Type="Xe" IsForeignKey="true" />
+      <Association Name="TuyenXe_ChuyenXe" Member="TuyenXe" ThisKey="MaTuyen" OtherKey="MaTuyen" Type="TuyenXe" IsForeignKey="true" />
     </Type>
   </Table>
   <Table Name="dbo.KhachHang" Member="KhachHangs">
@@ -60,14 +68,6 @@
       <Column Name="ViTri" Type="System.String" DbType="Char(3)" CanBeNull="true" />
       <Association Name="ChuyenXe_VeXe" Member="ChuyenXe" ThisKey="MaChuyen" OtherKey="MaChuyen" Type="ChuyenXe" IsForeignKey="true" />
       <Association Name="KhachHang_VeXe" Member="KhachHang" ThisKey="CCCD" OtherKey="CCCD" Type="KhachHang" IsForeignKey="true" />
-    </Type>
-  </Table>
-  <Table Name="dbo.Xe" Member="Xes">
-    <Type Name="Xe">
-      <Column Name="TTXe" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
-      <Column Name="MaNV" Type="System.String" DbType="Char(10)" CanBeNull="true" />
-      <Association Name="Xe_ChuyenXe" Member="ChuyenXes" ThisKey="TTXe" OtherKey="TTXe" Type="ChuyenXe" />
-      <Association Name="Nhanvien_Xe" Member="Nhanvien" ThisKey="MaNV" OtherKey="MaNV" Type="Nhanvien" IsForeignKey="true" />
     </Type>
   </Table>
 </Database>

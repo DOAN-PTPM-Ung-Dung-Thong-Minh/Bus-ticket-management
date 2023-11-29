@@ -99,37 +99,55 @@ namespace WebSite_QL_VeXe.Controllers
 
 
         // Lich Su Mua Ve
-
         public ActionResult LichSuMuaVe(string id)
         {
-            KhachHang kh = db.KhachHangs.Where(row => row.CCCD == id).FirstOrDefault();
+            KhachHang kh = db.KhachHangs.FirstOrDefault(row => row.CCCD == id);
             Session["cccd"] = kh.CCCD;
             Session["tenKH"] = kh.TenKH;
+
             var query = from vx in db.VeXes
                         join khach in db.KhachHangs on vx.CCCD equals khach.CCCD
-                        where vx.CCCD == Session["cccd"]
+                        join cx in db.ChuyenXes on vx.MaChuyen equals cx.MaChuyen
+                        join tx in db.TuyenXes on cx.MaTuyen equals tx.MaTuyen
+                        where vx.CCCD == Session["cccd"].ToString()
                         select new
                         {
-                            vx.MaChuyen,
+                            khach.TenKH,
+                            //vx.MaChuyen,
+                            cx.TenChuyen,
+                            cx.TTXe,
                             vx.NgayDi,
                             vx.ViTri,
-                            kh.TenKH,
-                            kh.SDT
+                            tx.GiaVe
                         };
 
             var veXeList = query.ToList().Select(vx => new VeXe
             {
-                MaChuyen = vx.MaChuyen,
+                //MaChuyen = vx.MaChuyen,
                 NgayDi = vx.NgayDi,
                 ViTri = vx.ViTri,
+                TuyenXe = new TuyenXe
+                {
+                    GiaVe = vx.GiaVe
+                },
                 KhachHang = new KhachHang
                 {
-                    TenKH = vx.TenKH,
-                    SDT = vx.SDT
+                    TenKH = vx.TenKH
+                },
+                ChuyenXe = new ChuyenXe
+                {
+                    TenChuyen = vx.TenChuyen,
+                    TTXe = vx.TTXe
                 }
             }).ToList();
+
             return View(veXeList);
         }
+
+        //Xem Chi Tiet Ve
+
+
+
 
     }
 }

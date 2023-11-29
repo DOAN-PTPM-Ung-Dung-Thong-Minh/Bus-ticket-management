@@ -2,88 +2,88 @@
 <ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14, 8.5" name="DB_Banvexekhach">
   <DataContextMoniker Name="/DB_BanvexekhachDataContext" />
   <nestedChildShapes>
-    <classShape Id="2728235d-ad74-4491-b2ad-160fbaa4f3d7" absoluteBounds="0.75, 1.375, 2, 1.1939925130208335">
+    <classShape Id="87ffe10b-3456-43ca-b51c-8af57c866bfa" absoluteBounds="0.75, 1.375, 2, 1.1939925130208335">
       <DataClassMoniker Name="/DB_BanvexekhachDataContext/ChucVu" />
       <nestedChildShapes>
-        <elementListCompartment Id="7b484c66-3985-4cba-b737-b7e47a980e73" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="be34b50b-436e-41fb-a399-02adce76213a" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <classShape Id="e1affc28-f4ad-4793-8610-c3a126630ad9" absoluteBounds="9, 1.125, 2, 1.7708968098958329">
-      <DataClassMoniker Name="/DB_BanvexekhachDataContext/ChuyenXe" />
-      <nestedChildShapes>
-        <elementListCompartment Id="8300bc7a-0edc-48c8-b3dc-8bee0f9d7213" absoluteBounds="9.015, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="c396da0a-b25c-4c05-9add-4b5afb1df00f" absoluteBounds="9, 5, 2, 1.9631982421875005">
-      <DataClassMoniker Name="/DB_BanvexekhachDataContext/KhachHang" />
-      <nestedChildShapes>
-        <elementListCompartment Id="6faacdc2-d700-4350-b050-e6942ca81955" absoluteBounds="9.015, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="8389a045-e69c-47e1-a158-6d5ae8b6315e" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
-      <DataClassMoniker Name="/DB_BanvexekhachDataContext/Nhanvien" />
-      <nestedChildShapes>
-        <elementListCompartment Id="b8515466-cedd-4541-8cbe-02f6ca5e9e31" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="9b4ec3fb-be5e-4606-a846-7a1a01f798a2" absoluteBounds="6.25, 5.375, 2, 1.3862939453125005">
-      <DataClassMoniker Name="/DB_BanvexekhachDataContext/TuyenXe" />
-      <nestedChildShapes>
-        <elementListCompartment Id="3075df69-fe00-4ce8-a06a-2aff93616e8b" absoluteBounds="6.265, 5.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="8ae290c0-8162-42e8-99b7-12e8c8bd431e" absoluteBounds="11.75, 1.125, 2, 1.7708968098958329">
-      <DataClassMoniker Name="/DB_BanvexekhachDataContext/VeXe" />
-      <nestedChildShapes>
-        <elementListCompartment Id="17267902-6489-4b0f-a5bb-83a9a2bab03d" absoluteBounds="11.765, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
-      </nestedChildShapes>
-    </classShape>
-    <classShape Id="6effaedf-64d5-4d5c-b754-162758e2a50e" absoluteBounds="6.25, 1.375, 2, 1.1939925130208335">
+    <classShape Id="1ad0c00e-0355-4c0a-944d-07be14bd0c8b" absoluteBounds="6.25, 1.375, 2, 1.1939925130208335">
       <DataClassMoniker Name="/DB_BanvexekhachDataContext/Xe" />
       <nestedChildShapes>
-        <elementListCompartment Id="a2049c15-415b-4e25-91ce-d760b052f40e" absoluteBounds="6.265, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="ecbf3bd9-b42b-4317-a98a-e345e74781a9" absoluteBounds="6.265, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(2.75 : 1.97199625651042); (3.5 : 1.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/DB_BanvexekhachDataContext/ChucVu/ChucVu_Nhanvien" />
-      <nodes>
-        <classShapeMoniker Id="2728235d-ad74-4491-b2ad-160fbaa4f3d7" />
-        <classShapeMoniker Id="8389a045-e69c-47e1-a158-6d5ae8b6315e" />
-      </nodes>
-    </associationConnector>
-    <associationConnector edgePoints="[(8.25 : 5.375); (8.625 : 5); (8.625 : 2.01044840494792); (9 : 2.01044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
-      <AssociationMoniker Name="/DB_BanvexekhachDataContext/TuyenXe/TuyenXe_ChuyenXe" />
-      <nodes>
-        <classShapeMoniker Id="9b4ec3fb-be5e-4606-a846-7a1a01f798a2" />
-        <classShapeMoniker Id="e1affc28-f4ad-4793-8610-c3a126630ad9" />
-      </nodes>
-    </associationConnector>
-    <associationConnector edgePoints="[(11 : 2.01044840494792); (11.75 : 2.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/DB_BanvexekhachDataContext/ChuyenXe/ChuyenXe_VeXe" />
-      <nodes>
-        <classShapeMoniker Id="e1affc28-f4ad-4793-8610-c3a126630ad9" />
-        <classShapeMoniker Id="8ae290c0-8162-42e8-99b7-12e8c8bd431e" />
-      </nodes>
-    </associationConnector>
-    <associationConnector edgePoints="[(11 : 5.98159912109375); (12.75 : 5.98159912109375); (12.75 : 2.89589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
-      <AssociationMoniker Name="/DB_BanvexekhachDataContext/KhachHang/KhachHang_VeXe" />
-      <nodes>
-        <classShapeMoniker Id="c396da0a-b25c-4c05-9add-4b5afb1df00f" />
-        <classShapeMoniker Id="8ae290c0-8162-42e8-99b7-12e8c8bd431e" />
-      </nodes>
-    </associationConnector>
-    <associationConnector edgePoints="[(8.25 : 1.63022420247396); (9 : 1.63022420247396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <classShape Id="a1fd88c0-4275-48f3-9886-829fedb73a87" absoluteBounds="9, 1.125, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/DB_BanvexekhachDataContext/ChuyenXe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a864db02-4745-42fd-ba04-af0086ca90f3" absoluteBounds="9.015, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a48ff4c0-9873-4326-a621-b3ff1d521150" absoluteBounds="9, 5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DB_BanvexekhachDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="378ed471-6540-40d9-a345-a5564a4b2ae5" absoluteBounds="9.015, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90dd2853-6575-4e3b-b4a8-dda29a123ae3" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DB_BanvexekhachDataContext/Nhanvien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b5834746-422a-479b-982c-c62b681af93f" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9bc0a5ad-97ff-4a8b-b315-ed5b5a13da11" absoluteBounds="6.25, 5.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DB_BanvexekhachDataContext/TuyenXe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e84331f4-076b-4145-b75c-19f946f21652" absoluteBounds="6.265, 5.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9869146b-a211-4425-9011-6fc53f5e8f81" absoluteBounds="11.75, 1.125, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/DB_BanvexekhachDataContext/VeXe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fbb07b5e-ae2e-4e8a-aeda-6312e6b4ca4f" absoluteBounds="11.765, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 1.97199625651042); (9 : 1.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/DB_BanvexekhachDataContext/Xe/Xe_ChuyenXe" />
       <nodes>
-        <classShapeMoniker Id="6effaedf-64d5-4d5c-b754-162758e2a50e" />
-        <classShapeMoniker Id="e1affc28-f4ad-4793-8610-c3a126630ad9" />
+        <classShapeMoniker Id="1ad0c00e-0355-4c0a-944d-07be14bd0c8b" />
+        <classShapeMoniker Id="a1fd88c0-4275-48f3-9886-829fedb73a87" />
       </nodes>
     </associationConnector>
     <associationConnector edgePoints="[(5.5 : 1.97199625651042); (6.25 : 1.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
       <AssociationMoniker Name="/DB_BanvexekhachDataContext/Nhanvien/Nhanvien_Xe" />
       <nodes>
-        <classShapeMoniker Id="8389a045-e69c-47e1-a158-6d5ae8b6315e" />
-        <classShapeMoniker Id="6effaedf-64d5-4d5c-b754-162758e2a50e" />
+        <classShapeMoniker Id="90dd2853-6575-4e3b-b4a8-dda29a123ae3" />
+        <classShapeMoniker Id="1ad0c00e-0355-4c0a-944d-07be14bd0c8b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.97199625651042); (3.5 : 1.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_BanvexekhachDataContext/ChucVu/ChucVu_Nhanvien" />
+      <nodes>
+        <classShapeMoniker Id="87ffe10b-3456-43ca-b51c-8af57c866bfa" />
+        <classShapeMoniker Id="90dd2853-6575-4e3b-b4a8-dda29a123ae3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.375); (8.625 : 5); (8.625 : 2.46519853320312); (9 : 2.46519853320312)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_BanvexekhachDataContext/TuyenXe/TuyenXe_ChuyenXe" />
+      <nodes>
+        <classShapeMoniker Id="9bc0a5ad-97ff-4a8b-b315-ed5b5a13da11" />
+        <classShapeMoniker Id="a1fd88c0-4275-48f3-9886-829fedb73a87" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 2.01044840494792); (11.75 : 2.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_BanvexekhachDataContext/ChuyenXe/ChuyenXe_VeXe" />
+      <nodes>
+        <classShapeMoniker Id="a1fd88c0-4275-48f3-9886-829fedb73a87" />
+        <classShapeMoniker Id="9869146b-a211-4425-9011-6fc53f5e8f81" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 5.98159912109375); (12.75 : 5.98159912109375); (12.75 : 2.89589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB_BanvexekhachDataContext/KhachHang/KhachHang_VeXe" />
+      <nodes>
+        <classShapeMoniker Id="a48ff4c0-9873-4326-a621-b3ff1d521150" />
+        <classShapeMoniker Id="9869146b-a211-4425-9011-6fc53f5e8f81" />
       </nodes>
     </associationConnector>
   </nestedChildShapes>
