@@ -33,3 +33,4 @@ C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDun
 C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.csprojResolveAssemblyReference.cache
 C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.dll
 C:\Users\ADMIN\Desktop\du_lieu_hoc\github\bus_ticket\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.pdb
+D:\Nam 4\PTPM UDTM\DoAn\DA_LTCSHARP2_NHOM_20\UngDung\WebSite_QL_VeXe\WebSite_QL_VeXe\obj\Debug\WebSite_QL_VeXe.csprojResolveAssemblyReference.cache
