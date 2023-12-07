@@ -52,7 +52,7 @@ namespace WindowsFormsApp1
             load_cbo_ViTriChuaDuocDat();
             if (dateTimePicker1.Value.Date >= DateTime.Now)
             {
-                MessageBox.Show("Chưa ra đời lấy gì mua vé để sửa ??");
+                MessageBox.Show("Chỉ có thể đặt ngày hiện tại");
                 return;
             }
 
