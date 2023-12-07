@@ -53,7 +53,6 @@ namespace WindowsFormsApp1
             this.btnTimVX = new System.Windows.Forms.Button();
             this.btnXoaVX = new System.Windows.Forms.Button();
             this.btnDatve = new System.Windows.Forms.Button();
-            this.btnLoad = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.groupBox1.SuspendLayout();
@@ -238,7 +237,7 @@ namespace WindowsFormsApp1
             // 
             // btnDongVX
             // 
-            this.btnDongVX.Location = new System.Drawing.Point(828, 475);
+            this.btnDongVX.Location = new System.Drawing.Point(806, 475);
             this.btnDongVX.Name = "btnDongVX";
             this.btnDongVX.Size = new System.Drawing.Size(150, 40);
             this.btnDongVX.TabIndex = 6;
@@ -248,7 +247,7 @@ namespace WindowsFormsApp1
             // 
             // btnTimVX
             // 
-            this.btnTimVX.Location = new System.Drawing.Point(16, 548);
+            this.btnTimVX.Location = new System.Drawing.Point(12, 475);
             this.btnTimVX.Name = "btnTimVX";
             this.btnTimVX.Size = new System.Drawing.Size(150, 40);
             this.btnTimVX.TabIndex = 6;
@@ -258,7 +257,7 @@ namespace WindowsFormsApp1
             // 
             // btnXoaVX
             // 
-            this.btnXoaVX.Location = new System.Drawing.Point(287, 475);
+            this.btnXoaVX.Location = new System.Drawing.Point(187, 475);
             this.btnXoaVX.Name = "btnXoaVX";
             this.btnXoaVX.Size = new System.Drawing.Size(150, 40);
             this.btnXoaVX.TabIndex = 6;
@@ -268,7 +267,7 @@ namespace WindowsFormsApp1
             // 
             // btnDatve
             // 
-            this.btnDatve.Location = new System.Drawing.Point(287, 548);
+            this.btnDatve.Location = new System.Drawing.Point(362, 475);
             this.btnDatve.Name = "btnDatve";
             this.btnDatve.Size = new System.Drawing.Size(150, 40);
             this.btnDatve.TabIndex = 6;
@@ -276,20 +275,10 @@ namespace WindowsFormsApp1
             this.btnDatve.UseVisualStyleBackColor = true;
             this.btnDatve.Click += new System.EventHandler(this.btnDatve_Click);
             // 
-            // btnLoad
-            // 
-            this.btnLoad.Location = new System.Drawing.Point(16, 475);
-            this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(150, 40);
-            this.btnLoad.TabIndex = 6;
-            this.btnLoad.Text = "TT Vé Xe";
-            this.btnLoad.UseVisualStyleBackColor = true;
-            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(546, 475);
+            this.pictureBox1.Location = new System.Drawing.Point(574, 461);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(189, 113);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -301,11 +290,10 @@ namespace WindowsFormsApp1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(982, 635);
+            this.ClientSize = new System.Drawing.Size(982, 591);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnDongVX);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.btnLoad);
             this.Controls.Add(this.btnTimVX);
             this.Controls.Add(this.btnDatve);
             this.Controls.Add(this.btnXoaVX);
@@ -342,7 +330,6 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button btnDatve;
         private System.Windows.Forms.ComboBox cboCX;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button btnLoad;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.DataGridViewTextBoxColumn MAVE;
