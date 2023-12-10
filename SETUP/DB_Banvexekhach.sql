@@ -159,5 +159,3 @@ values('012345678921','SGVT17H','19/12/2022','A1'),
 go
 
 
---Select TenKH,vx.MaChuyen,TenChuyen,TTXe,NgayDi,ViTri,GiaVe from VeXe vx,KhachHang kh,ChuyenXe cx,TuyenXe tx
---Where vx.CCCD = kh.CCCD and vx.MaChuyen=cx.MaChuyen and cx.MaTuyen=tx.MaTuyen and vx.CCCD = '012345678902'
